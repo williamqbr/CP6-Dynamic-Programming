@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+# Os arquivos oficiais de entrada devem ser versionados conforme a orientação do professor.
